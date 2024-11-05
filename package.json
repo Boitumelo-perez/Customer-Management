@@ -1,0 +1,17 @@
+{
+  "name": "customermanagement",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Sinwamadi Boitumelo Perez",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jsdom": "^25.0.1"
+  }
+}

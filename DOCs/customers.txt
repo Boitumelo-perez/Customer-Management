@@ -1,0 +1,10 @@
+John Doe,johndoe@example.com,555-1234
+Jane Smith,janesmith@gmail.com,555-5678
+Michael Johnson,michaelj@icloud.com,555-8765
+Emily Davis,emilyd@yahoo.com,555-4321
+Robert Brown,robertb@out.com,555-9101
+Alice Johnson,alice@example.com,123-456-7890
+Bob Smith,bob@example.com,234-567-8901
+Charlie Rose,charlie@example.com,345-678-9012
+Diana Prince,diana@example.com,456-789-0123
+

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Management</title>
+    <link rel="stylesheet" href="style.css">
+       
+</head>
+<body>
+
+<h2>Customer Management</h2>
+
+<input type="file" id="fileInput" accept=".txt" onchange="loadFile(event)">
+<input type="text" id="searchInput" placeholder="Search for customers..." oninput="searchCustomer()">
+<button id="sortButton" onclick="sortCustomers()">Sort Alphabetically</button>
+
+<table id="customerTable">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+        </tr>
+    </thead>
+    <tbody id="customerTableBody"></tbody>
+</table>
+
+<script src="script.js"></script>
+
+</body>
+</html>
